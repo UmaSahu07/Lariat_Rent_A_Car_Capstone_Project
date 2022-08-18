@@ -1,4 +1,4 @@
-15.2: Data Exploration and Model Definition:
+15.2: Data Exploration and Model Definition:-
 
 Lariat’s business objective: To make better business decisions by minimizing the cost and maximizing the revenue.
 Four data sheets are provided here. Apart from that a few more variables are required to design the model. Explanations of those variables are given below:
